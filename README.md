@@ -1,4 +1,4 @@
-# 🏢 Room Allotment and Booking System (CLI - C++ Project)
+# 🏢 Room Allotment and Booking System CLI - (C++)
 
 A colorized, command-line-based booking system for managing room allotments, scheduling, and cancellations using advanced C++ and Data Structures.
 
