@@ -59,7 +59,6 @@ RoomBookingSystem_CLI/
 ├── .gitignore
 └── Room_Booking_System_CLI_Project_Report.pdf
 
-
 ---
 
 ## 👤 Developer Info
