@@ -1,0 +1,30 @@
+                  Room Allotment and Booking System - Project Report
+
+                  
+Project Overview
+
+This is a command-line based Room Allotment and Booking System developed using C++. The application
+allows users to book a room, check room availability, view all bookings, and cancel bookings.
+Advanced DSA concepts such as unordered_map and vector are used to manage dynamic room data and
+bookings efficiently. The system has a CLI interface with colored outputs to enhance user experience.
+Custom parameters such as room number, host name, booking time, chairs required, and room purpose are
+used for more flexibility.
+
+Key Features
+- Book a room with host, purpose, time, and chair capacity.
+- View the status of any room (Booked or Available).
+- View all existing bookings with detailed info.
+- Cancel a booking to free up the room.
+- Uses DSA structures: vector and unordered_map.
+- Fully colorized Command Line Interface (Windows only).
+
+Technologies Used
+- Language: C++
+- IDE: Visual Studio
+- Platform: Windows CLI (Command Prompt)
+- Libraries: iostream, vector, unordered_map, string, windows.h
+
+Developer Info
+Developed by: Sachin Lokhande
+GitHub: https://github.com/sachinlokhande4154/RoomBookingSystem_CLI
+LinkedIn: https://www.linkedin.com/in/sachin-lokhande-49a690193
